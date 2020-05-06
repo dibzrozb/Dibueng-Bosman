@@ -22,10 +22,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - 2017: University of Pretoria Marketing and Events of  Katjiepiering Residence 
 
 ## Projects 
-Digital advisory for Tsogo Sun
-Digital customer experience advisory for Life Healthcare
-Digital banking sales account plan
-Marketing campaign pitches: Discovery Ltd, Italtile, Appletiser and Super Quick
+- Digital advisory for Tsogo Sun
+- Digital customer experience advisory for Life Healthcare
+- Digital banking sales account plan
+- Marketing campaign pitches: Discovery Ltd, Italtile, Appletiser and Super Quick
 
 ## Community Engagement
 Soccer kit sponsored
