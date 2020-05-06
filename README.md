@@ -1,6 +1,6 @@
 # Dibueng Roslind Bosman
 
-### About Me
+## About Me
 
 I aspire to be part of an organisation with a vibrant and inclusive culture that allows me to learn and develop myself into a valuable member of a marketing team. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
 
@@ -8,9 +8,19 @@ You can use the [editor on GitHub](https://github.com/dibzrozb/Dibueng-Bosman/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
+### University of Pretoria
+- BCom Honours Marketing Management (2019)
+- BCom Marketing Management (2016-2018)
+### Brescia House School 
+- National Senior Certificate (2011-2015)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+- 2020: Dimention Data-Graduate Accelerate Program
+- 2019: Discovery Ltd-Marketing Graduate Vacation Work Program 
+- 2018: University of Pretoria-Chairperson of Katjiepiering Residence
+- 2017: University of Pretoria-Marketing and Events of  Katjiepiering Residence 
+
 
 ```markdown
 Syntax highlighted code block
