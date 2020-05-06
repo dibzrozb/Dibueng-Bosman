@@ -3,7 +3,7 @@
 ![](CV picture.png)
 <span>Johannesburg, South Africa </span>
 
-<span><h2> About Me</h2> </span>
+## About Me
 
 I aspire to be part of an organisation with a vibrant and inclusive culture that is keeping up with rapid digital transformation. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
 
