@@ -1,17 +1,16 @@
-# Dibueng Roslind Bosman
+# Dibueng Roslind Bosman 
+
+![](CV picture.png) 
 
 ## About Me
 
-I aspire to be part of an organisation with a vibrant and inclusive culture that allows me to learn and develop myself into a valuable member of a marketing team. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
-
-You can use the [editor on GitHub](https://github.com/dibzrozb/Dibueng-Bosman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I aspire to be part of an organisation with a vibrant and inclusive culture that is keeping up with rapid digital transformation. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
 
 ## Education
 ### University of Pretoria
 - BCom Honours Marketing Management (2019)
 - BCom Marketing Management (2016-2018)
+
 ### Brescia House School 
 - National Senior Certificate (2011-2015)
 
@@ -28,11 +27,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Marketing campaign pitches: Discovery Ltd, Italtile, Appletiser and Super Quick
 
 ## Community Engagement
-Soccer kit sponsored
-Book drives
-Soup kitchen- Hatfield Philidelphia Church 
+- Soccer kit sponsored
+- Book drives
+- Soup kitchen at Hatfield Philidelphia Church 
 
+You can use the [editor on GitHub](https://github.com/dibzrozb/Dibueng-Bosman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ```markdown
