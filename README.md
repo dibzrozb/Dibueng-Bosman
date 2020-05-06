@@ -1,6 +1,6 @@
 # Dibueng Roslind Bosman 
 
-![](CV picture.png) 
+![](CV picture.png)             <span>0746629178</span> 
 
 ## About Me
 
