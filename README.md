@@ -12,6 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### University of Pretoria
 - BCom Honours Marketing Management (2019)
 - BCom Marketing Management (2016-2018)
+
 ### Brescia House School 
 - National Senior Certificate (2011-2015)
 
