@@ -1,6 +1,6 @@
 # Dibueng Roslind Bosman 
 
-![](CV picture.png)             <span>0746629178</span> 
+![](CV picture.png){vertical-align: middle}<span>Johannesburg, South Africa </span>
 
 ## About Me
 
