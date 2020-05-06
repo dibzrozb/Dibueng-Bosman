@@ -1,5 +1,9 @@
 # Dibueng Roslind Bosman
 
+### About Me
+
+I aspire to be part of an organisation with a vibrant and inclusive culture that allows me to learn and develop myself into a valuable member of a marketing team. Growth and learning are what motivate me to tackle new challenges and opportunities with an open mind.
+
 You can use the [editor on GitHub](https://github.com/dibzrozb/Dibueng-Bosman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
